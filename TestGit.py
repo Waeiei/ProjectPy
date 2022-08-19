@@ -1,3 +1,5 @@
-print("Test Git")
 
-print("Test Two Three")
+
+x = int(input("Enter a number: "))
+
+print(x)
